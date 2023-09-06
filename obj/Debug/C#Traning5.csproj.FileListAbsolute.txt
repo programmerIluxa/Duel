@@ -1,0 +1,8 @@
+C:\Users\hp\source\repos\C#Traning5\bin\Debug\C#Traning5.exe.config
+C:\Users\hp\source\repos\C#Traning5\bin\Debug\C#Traning5.exe
+C:\Users\hp\source\repos\C#Traning5\bin\Debug\C#Traning5.pdb
+C:\Users\hp\source\repos\C#Traning5\obj\Debug\C#Traning5.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\C#Traning5\obj\Debug\C#Traning5.csproj.SuggestedBindingRedirects.cache
+C:\Users\hp\source\repos\C#Traning5\obj\Debug\C#Traning5.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\C#Traning5\obj\Debug\C#Traning5.exe
+C:\Users\hp\source\repos\C#Traning5\obj\Debug\C#Traning5.pdb
